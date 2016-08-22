@@ -1,3 +1,6 @@
 # Hello-World
 following the intro steps
-do some new
+
+Hi Dudes.
+working on a Piratebox 
+
